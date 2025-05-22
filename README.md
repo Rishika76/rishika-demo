@@ -1,4 +1,4 @@
 # rishika-demo
 This is my Git Repository.
 <br>
-Author - Rishika Dwivedi
+Author - Rishika (Apna college)
